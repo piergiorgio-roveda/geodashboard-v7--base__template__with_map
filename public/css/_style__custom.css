@@ -1,0 +1,17 @@
+@keyframes pulseEffect {
+  0% {
+    /* transform: scale(1); */
+    background-color: initial;
+    opacity: 1;
+  }
+  50% {
+    /* transform: scale(1.05); */
+    background-color: yellow;
+    opacity: 0.7;
+  }
+  100% {
+    /* transform: scale(1); */
+    background-color: initial;
+    opacity: 1;
+  }
+}

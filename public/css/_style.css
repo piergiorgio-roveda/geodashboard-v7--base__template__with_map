@@ -1,0 +1,21 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    --wd-base-color: #FFFBFF;
+    --wd-base-color-invert: #7B7768;
+    font-size: 13px;
+    overflow: hidden;
+    font-family: Play;
+}
+
+#mapid {
+  background-color: #F5F6FC;
+  position: relative;
+  height: 100vh;
+  width: 100%;
+}
+
